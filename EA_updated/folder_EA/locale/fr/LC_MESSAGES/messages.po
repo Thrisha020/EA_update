@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: fr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# General
+msgid " BMS file not found."
+msgstr " Fichier BMS introuvable."
+
+msgid " No dependencies found."
+msgstr " Aucune dépendance trouvée."
+
+msgid " No graphs were generated."
+msgstr " Aucun graphe n’a été généré."
+
+# Dynamic lines with variables
+msgid "\n ID: {parent_id}"
+msgstr "\n ID : {parent_id}"
+
+msgid "\n **Responsible Node: {map_name}**\n"
+msgstr "\n **Nœud responsable : {map_name}**\n"
+
+msgid "📌 Group Relation: {group_name}"
+msgstr "📌 Relation de groupe : {group_name}"
+
+msgid "  -  Child Name: {file_name_unique}"
+msgstr "  -  Nom enfant : {file_name_unique}"
+
+msgid "\n Generated Graph Files:"
+msgstr "\n Fichiers de graphe générés :"
+
+msgid "{file} → Open in browser: {file_url}"
+msgstr "{file} → Ouvrir dans le navigateur : {file_url}"

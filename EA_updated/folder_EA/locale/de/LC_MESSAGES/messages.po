@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " BMS file not found."
+msgstr " BMS-Datei nicht gefunden." 
+
+msgid "\n ID:"
+msgstr "\n ID:"     
+
+msgid " Parent Name:"
+msgstr " Übergeordneter Name:"
+
+msgid "\n"
+msgstr "\n" 
+
+msgid " No dependencies found."
+msgstr " Keine Abhängigkeiten gefunden."
+
+msgid "\n **Responsible Node: {map_name}**\n"
+msgstr "\n **Zuständiger Knoten: {map_name}**\n"
+
+msgid "📌 Group Relation: {group_name}"
+msgstr "📌 Gruppenbeziehung: {group_name}"
+
+msgid "  -  Child Name: {file_name_unique}"
+msgstr "  -  Kindname: {file_name_unique}"
+
+msgid "\n Generated Graph Files:"
+msgstr "\n Generierte Graph-Dateien:" 
+
+msgid "{file} → Open in browser: {file_url}"
+msgstr "{file} → Im Browser öffnen: {file_url}" 
+
+msgid " No graphs were generated."
+msgstr " Es wurden keine Graphen erzeugt."
